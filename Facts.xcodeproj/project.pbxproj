@@ -14,6 +14,7 @@
 		CA03A37A1BA4E8750077A068 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CA03A3781BA4E8750077A068 /* LaunchScreen.xib */; };
 		CA03A3861BA4E8750077A068 /* FactsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA03A3851BA4E8750077A068 /* FactsTests.swift */; };
 		CA03A3921BA636E70077A068 /* FactBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA03A3911BA636E70077A068 /* FactBook.swift */; };
+		CA03A3941BA64AD20077A068 /* ColorWheel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA03A3931BA64AD20077A068 /* ColorWheel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,6 +40,7 @@
 		CA03A3851BA4E8750077A068 /* FactsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactsTests.swift; sourceTree = "<group>"; };
 		CA03A38F1BA4EB180077A068 /* Scratchpad.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Scratchpad.playground; path = Facts/Scratchpad.playground; sourceTree = "<group>"; };
 		CA03A3911BA636E70077A068 /* FactBook.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FactBook.swift; sourceTree = "<group>"; };
+		CA03A3931BA64AD20077A068 /* ColorWheel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorWheel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				CA03A36F1BA4E8750077A068 /* AppDelegate.swift */,
 				CA03A3911BA636E70077A068 /* FactBook.swift */,
 				CA03A3711BA4E8750077A068 /* ViewController.swift */,
+				CA03A3931BA64AD20077A068 /* ColorWheel.swift */,
 				CA03A3731BA4E8750077A068 /* Main.storyboard */,
 				CA03A3761BA4E8750077A068 /* Images.xcassets */,
 				CA03A3781BA4E8750077A068 /* LaunchScreen.xib */,
@@ -228,6 +231,7 @@
 				CA03A3921BA636E70077A068 /* FactBook.swift in Sources */,
 				CA03A3721BA4E8750077A068 /* ViewController.swift in Sources */,
 				CA03A3701BA4E8750077A068 /* AppDelegate.swift in Sources */,
+				CA03A3941BA64AD20077A068 /* ColorWheel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
